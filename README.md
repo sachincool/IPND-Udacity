@@ -32,3 +32,4 @@ Created a simple movie website with images and trailers, this project demonstrat
 ### Stage 4: Android course 
  - Already did it in my Udacity Android Basics Nanodegree
  
+![](https://i.imgsafe.org/67/6793cf2fa3.jpeg)
