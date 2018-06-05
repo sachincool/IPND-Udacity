@@ -23,7 +23,7 @@ Built a Mad Libs-style game to leverage the power of functions in Python and mas
 
 [View project](https://sachincool.github.io/IPND-Udacity/project3.py)
 
-<iframe src="https://trinket.io/embed/python/5f51c8a590?runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/5f51c8a590?runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Stage 3: The Power of Abstraction
 Created a simple movie website with images and trailers, this project demonstrates knowledge of Object Oriented Programming.
