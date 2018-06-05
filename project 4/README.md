@@ -25,3 +25,5 @@ Navigate to the project directory and run the movie_website.py file or type in t
 python3 entertainment_center.py
 ```
 Your browser should launch a new tab displaying the movie trailer website.
+--
+> Click [here](https://sachincool.github.io/IPND-Udacity/project%204/fresh_tomatoes.html) to see an example of the webpage.
