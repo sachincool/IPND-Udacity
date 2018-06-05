@@ -1,7 +1,7 @@
 # <a href="https://www.udacity.com/course/intro-to-programming-nanodegree--nd000" target="_blank">Udacity Intro to Programming Nanodegree</a>
 Projects for my Udacity Intro to Programming Nanodegree
 
-Site for this project:- [Best Site Ever created](https://sachincool.github.io/IPND-Udacity/)
+>* Site for this project:- <strong> [Best Site Ever created](https://sachincool.github.io/IPND-Udacity/) </strong>
 
 ### Stage 0: Getting Started with HTML
 Get some early feedback on what you're learning within the first week of your Nanodegree experience.
